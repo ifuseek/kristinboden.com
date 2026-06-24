@@ -1,0 +1,172 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kristin Boden",
+    "label": "AI Enablement & Adoption Leader · Digital Transformation · Fractional Head of Digital",
+    "email": "kbm13@mac.com",
+    "phone": "971-570-7109",
+    "url": "https://kristinboden.com",
+    "summary": "Digital leader who pairs hands-on AI and automation work with 25+ years of driving technology adoption across large, change-resistant organizations. Sole technical architect of nike.com (1997) and its first e-commerce platform; led a 13-year enterprise digital transformation reaching 25,000+ users and 375+ web properties; today builds AI workflow automations and operates a DTC e-commerce business. Specializes in AI enablement and adoption, change management, train-the-trainer/champion programs, and translating complex technology into decisions non-technical leaders can act on. Open to remote roles (incl. higher education); based in the Portland, OR metro; not relocating.",
+    "location": {
+      "city": "West Linn",
+      "region": "Oregon",
+      "countryCode": "US",
+      "postalCode": "97068"
+    },
+    "profiles": [
+      { "network": "LinkedIn", "username": "kristin-boden", "url": "https://www.linkedin.com/in/kristin-boden" },
+      { "network": "Portfolio", "username": "ifuseek", "url": "https://ifuseek.smugmug.com" }
+    ]
+  },
+  "work": [
+    {
+      "name": "(TB)oden / digital",
+      "position": "Founder & Principal — AI Enablement, Automation & Digital Operations",
+      "url": "https://tboden.com",
+      "startDate": "2021-04",
+      "summary": "Independent practice spanning AI enablement/adoption advisory, workflow automation, program management, QA strategy, and fractional digital leadership.",
+      "highlights": [
+        "Designed and deployed AI-powered operational automations end to end, including a SKU-keyed product-content pipeline (Mac Shortcuts + Hazel + AI image tagging) that classifies and routes assets automatically.",
+        "Operate a DTC resale e-commerce business sourcing-to-ledger: auction sourcing, product taxonomy, multi-channel listing, order management, and full chart-of-accounts in Zoho.",
+        "Advise on AI tool selection, workflow redesign, enablement, and change management; maintain hands-on ML fluency via Colab (summarization, tokenizers, generative models).",
+        "Serve as fractional / interim digital leader for organizations needing senior digital and AI-adoption leadership without a full-time hire."
+      ]
+    },
+    {
+      "name": "University of San Francisco (Contract via (TB)oden/digital)",
+      "position": "Technical Implementation Product Manager",
+      "startDate": "2023-02",
+      "endDate": "2023-06",
+      "summary": "Led the 'Next Steps' student-onboarding platform implementation end to end.",
+      "highlights": [
+        "Delivered in 5 months — roughly 3 months ahead of schedule and under budget.",
+        "Owned full lifecycle: RFP, vendor selection, data integration, rollout.",
+        "Unified disparate data sources into a single Airtable source of truth for 40+ stakeholders."
+      ]
+    },
+    {
+      "name": "Dia & Co (Contract via (TB)oden/digital)",
+      "position": "Senior Quality Assurance Consultant",
+      "startDate": "2021-10",
+      "endDate": "2022-08",
+      "summary": "QA transformation for a DTC fashion e-commerce platform.",
+      "highlights": [
+        "Stood up agile QA frameworks plus automated and visual-regression testing, reducing technical debt.",
+        "Built custom JQL dashboards (active defects, automated tests, covered requirements, defects-fixed-per-sprint) for real-time, data-driven QA.",
+        "Drove covered requirements to 100% within two months; embedded QA into dev, brand, design, and marketing workflows."
+      ]
+    },
+    {
+      "name": "Portland State University",
+      "position": "Director, Web Communications (Enablement & Enterprise Digital Transformation)",
+      "startDate": "2008-05",
+      "endDate": "2021-04",
+      "summary": "Led enterprise digital strategy, standards, governance, accessibility, budget, and organization-wide technology adoption across 375+ web properties serving 25,000+ students and 5,000 faculty.",
+      "highlights": [
+        "Rebuilt the entire web ecosystem from the ground up — 60 home-grown sites to 380+ integrated, student-first, ADA-compliant sites on one of the largest Drupal multisites of its time.",
+        "Drove 90.8M page views / 60.2M unique in a year; cut page load from 20+ seconds to under 1 second.",
+        "Built a train-the-trainer enablement program scaled from 318 sessions in year one to 1,500+ users/year in mandated accessibility training (850% increase in offerings); trained and coached 500+ embedded content-owner champions.",
+        "Owned the digital operations budget and vendor strategy; saved $1M+ via platform consolidation ($123K/yr software + ~$1M/yr hardware & personnel) and negotiation.",
+        "Led migrations Saga CMS to Drupal 6 to Drupal 7 to a full rebuild; owned web accessibility strategy (WCAG / Section 508) for all centrally hosted sites; led cross-functional governance with executives.",
+        "Remote-capable leadership: ran fully remote training and operations in 2020."
+      ]
+    },
+    {
+      "name": "k+c digital",
+      "position": "Principal — Program Management, QA Consulting & Agile Coaching",
+      "startDate": "2002-11",
+      "endDate": "2013-12",
+      "summary": "Independent digital consultancy serving brand and agency clients including Benefit Cosmetics, Method, PopArt, and Volantis.",
+      "highlights": [
+        "Delivered web/mobile application development and large-scale brand-interactive test strategy.",
+        "Introduced QA teams, test planning, and agile coaching into client organizations."
+      ]
+    },
+    {
+      "name": "Nike",
+      "position": "Technical Webmaster/Architect, nike.com → Director, Consumer Direct Digital IT",
+      "startDate": "1997-03",
+      "endDate": "2004-12",
+      "summary": "Sole technical architect on the founding team that launched nike.com; later led the global rollout of NIKEiD.",
+      "highlights": [
+        "Built nike.com from the ground up and stood up Nike's first complete e-commerce infrastructure (logistics, call center, CRM, payments, returns, content management) in under 8 weeks.",
+        "Architected for 99.9%+ uptime through massive traffic spikes; selected the (pre-IPO Akamai) CDN still in use across the nike.com ecosystem decades later.",
+        "Delivered global brand experiences: 'World Body' (Sydney 2000 Olympics — 14 locations, 8 languages), Radio Free Sydney, FZT nikefootball MMO, Nike Golf/Running, Brand Jordan.",
+        "As Director, led the global NIKEiD direct-to-consumer customization rollout and a center of excellence for Nike Retail back-end and POS systems (Nike Maxim award).",
+        "Drove organizational change by merging creative and technical teams and introducing agile methods, improving delivery timelines 60%+."
+      ]
+    },
+    {
+      "name": "Northwest Regional Educational Laboratory (NWREL)",
+      "position": "Internet Applications Specialist / Research Consultant / DBA / Unix Sysadmin",
+      "startDate": "1994-06",
+      "endDate": "1997-03",
+      "summary": "Led NWREL's creative and technical web team; strategic Internet-technology consultant to education agencies.",
+      "highlights": [
+        "Built some of the first web and gopher sites in the non-profit/education space, before the public '.com' era.",
+        "Installed networks across regional school districts to support the then-new internet protocol; national presenter and writer."
+      ]
+    },
+    {
+      "name": "Lewis & Clark College",
+      "position": "Academic Consultant, Research (Statistics & Statistical Analysis)",
+      "startDate": "1991-03",
+      "endDate": "1994-06",
+      "summary": "Statistical-analysis consultant (SPSS, SAS) and builder of early Internet web servers; honored as 'Academic Technologies, Emeritus.'",
+      "highlights": [
+        "Designed instructional materials and reusable SPSS/SAS components for liberal-arts research.",
+        "Designed, coded, and maintained early Internet web servers prior to '.com'."
+      ]
+    },
+    {
+      "name": "Riverfront Cottage",
+      "position": "Owner / Operator (Short-Term Rental)",
+      "url": "https://riverfront-cottage.com",
+      "startDate": "2021-01",
+      "summary": "Short-term-rental business with full P&L and operations.",
+      "highlights": [
+        "Scaled to Airbnb SuperHost + Guest Favorite (4.93/5, 100% response, peak occupancy) with dynamic pricing and multi-OTA channel management."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Santa Clara University",
+      "area": "Mathematics & Computer Science (Minor: Business)",
+      "studyType": "Bachelor of Science",
+      "startDate": "1983-09",
+      "endDate": "1987-06"
+    }
+  ],
+  "certificates": [
+    { "name": "Certified Scrum Product Owner (CSPO)", "issuer": "Scrum Alliance" },
+    { "name": "PMI-ACP (Agile Certified Practitioner) — in progress", "issuer": "Project Management Institute" },
+    { "name": "Prompt Engineering: How to Talk to the AIs", "issuer": "LinkedIn Learning" },
+    { "name": "No-Code AI: Building Your First Model", "issuer": "LinkedIn Learning" },
+    { "name": "Foundational Math for Machine Learning", "issuer": "Self-directed / LinkedIn Learning" },
+    { "name": "Google Tag Manager (Advanced)", "issuer": "Google" }
+  ],
+  "skills": [
+    { "name": "AI & Automation", "keywords": ["AI Enablement & Adoption", "Workflow Automation", "Prompt Engineering", "No-Code AI", "Applied ML (Colab)", "AI tagging pipelines"] },
+    { "name": "Leadership & Change", "keywords": ["Change Management", "Digital Transformation", "Train-the-Trainer / Champion Networks", "Program & Product Management", "Agile / Scrum (CSPO)", "Executive Stakeholder Leadership"] },
+    { "name": "Digital & Web", "keywords": ["Web Content Management at Scale (Drupal, WordPress)", "Accessibility (WCAG 2.2 / Section 508)", "SEO & Information Architecture", "Technical Architecture", "QA Strategy & Test Automation"] },
+    { "name": "Operations", "keywords": ["E-commerce Operations", "Vendor Negotiation & Budget Ownership", "Analytics (GA, SQL/JQL)", "P&L Management"] }
+  ],
+  "projects": [
+    { "name": "nike.com launch & first e-commerce platform", "description": "Sole technical architect; built the site and Nike's first e-commerce infrastructure in under 8 weeks (1997).", "keywords": ["e-commerce", "architecture", "CDN"] },
+    { "name": "NIKEiD global rollout", "description": "Led the global direct-to-consumer customization platform rollout (Nike Maxim award).", "keywords": ["DTC", "global rollout"] },
+    { "name": "PSU enterprise web rebuild", "description": "Ground-up rebuild of a 375+ site Drupal multisite; $1M+ saved; 1,500+ users/yr trained.", "keywords": ["digital transformation", "accessibility", "adoption"] },
+    { "name": "AI & I — product-content automation", "description": "AI image-tagging + Mac Shortcuts + Hazel pipeline that classifies and routes SKU-keyed product photos automatically (2025).", "keywords": ["AI automation", "workflow"] },
+    { "name": "Goodwill Hunting — DTC resale e-commerce", "description": "End-to-end DTC resale operation: sourcing, taxonomy, multi-channel listing, Zoho accounting (2026).", "keywords": ["e-commerce", "operations"] }
+  ],
+  "awards": [
+    { "title": "Nike Maxim Award", "awarder": "Nike", "summary": "NIKEiD team — collaborative success and technical innovation." },
+    { "title": "Academic Technologies, Emeritus", "awarder": "Lewis & Clark College" }
+  ],
+  "meta": {
+    "canonical": "https://kristinboden.com/resume.json",
+    "version": "2026.06",
+    "lastModified": "2026-06-24",
+    "note": "Machine-readable career dossier (JSON Resume schema). Companion files: /career.md (full corpus), /llms.txt (AI-agent index)."
+  }
+}
