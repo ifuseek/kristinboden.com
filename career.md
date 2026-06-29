@@ -84,8 +84,11 @@ Sole technical architect on the founding team that launched nike.com.
 - Primary statistical-analysis consultant (SPSS, SAS); designed instructional materials and reusable analysis components.
 - Designed, coded, and maintained early Internet web servers prior to ".com." Honored as "Academic Technologies, Emeritus."
 
-### Additional — Riverfront Cottage (Owner/Operator, STR) | Jan 2021 – Present
-- Scaled a short-term rental to Airbnb SuperHost + Guest Favorite (4.93/5, 100% response, peak occupancy); full P&L, dynamic pricing, multi-OTA operations.
+### Additional — Riverfront Cottage (Owner / Operator, Short-Term Rental) | Jan 2021 – Present
+- Scaled a short-term rental to **Airbnb SuperHost every year since launch** and Guest Favorite status — 4.93/5 rating, 100% response rate, peak occupancy — with full P&L ownership, dynamic pricing, and multi-OTA channel management.
+- Earned **LGBTQ+-inclusive (Booking.com Travel Proud) and sustainability certifications** across Booking.com and VRBO — values-led hospitality backed by an extensive collection of glowing guest testimonials.
+- Demonstrates the operator's core skills that translate directly to digital leadership: relentless customer-experience focus, operational consistency, and measurable, repeatable quality.
+- Reviews / social proof: https://www.riverfront-cottage.com/reviews
 
 ---
 
