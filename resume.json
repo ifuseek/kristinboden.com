@@ -63,7 +63,7 @@
       "endDate": "2021-04",
       "summary": "Led enterprise digital strategy, standards, governance, accessibility, budget, and organization-wide technology adoption across 375+ web properties serving 25,000+ students and 5,000 faculty.",
       "highlights": [
-        "Rebuilt the entire web ecosystem from the ground up — 60 home-grown sites to 380+ integrated, student-first, ADA-compliant sites on one of the first true enterprise Drupal multisites of its kind in higher education (second redesign with partner ImageX); released the full project code open-source and presented the model widely.",
+        "Rebuilt the entire web ecosystem into an enterprise Drupal multisite empowering non-technical content editors (earlier phases with ImageX; final Drupal 7-to-8 rebuild with Promet Source on Acquia). Publicly documented on Drupal.org with Kristin credited as PSU project lead: 340 multisites/40,000+ pages consolidated to 216; 300 authors built 200+ sites in under 3 months; 500 content editors. Released open-source; presented at Drupal business gatherings.",
         "Drove 90.8M page views / 60.2M unique in a year; cut page load from 20+ seconds to under 1 second.",
         "Built and directed a team of trainers delivering a train-the-trainer enablement program scaled from 318 sessions in year one to 1,500+ users/year (850% increase in offerings); recruited and coached 500+ embedded content-owner champions.",
         "Owned the digital operations budget and vendor strategy; saved $1M+ via platform consolidation ($123K/yr software + ~$1M/yr hardware & personnel) and negotiation.",
