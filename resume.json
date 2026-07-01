@@ -164,6 +164,7 @@
   ],
   "awards": [
     { "title": "Nike Maxim Award", "awarder": "Nike", "summary": "NIKEiD team — collaborative success and technical innovation." },
+    { "title": "Acquia Engage Awards Finalist — Higher Education (Leader of the Pack)", "awarder": "Acquia", "summary": "For the Portland State University website redesign and Drupal 8 migration (as PSU Director of Web Communications)." },
     { "title": "Academic Technologies, Emeritus", "awarder": "Lewis & Clark College" }
   ],
   "meta": {

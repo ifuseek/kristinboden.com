@@ -45,7 +45,13 @@
 
 **Outcome (publicly documented).** Consolidated a **340-multisite platform with 40,000+ pages down to 216 syndicated multisites**; **300 remote site authors built 200+ sites in under three months**, and **500 content editors** university-wide create on-brand, ADA-compliant sites within a governed design system — cutting reliance on the central team. Load times fell from 20+ seconds to under 1 second and the portal consolidation saved **$1M+**. The work became **community IP** (open-source; Acquia Engage Award submission), and Kristin presented the model at Drupal business gatherings (Drupal Business Summits, BADCamp / Higher Ed Summit) — an early, public example of the "adopt it first, then give it back to the field" pattern that runs from her 1994 internet work to her AI work today.
 
-> **Verified source:** Drupal.org case study — *"Portland State University: Empowering Non-Technical Content Editors"* (Promet Source, 10 Mar 2021), project team credited as **Kristin Boden, Director of Web Communications, PSU**. https://www.drupal.org/case-study/portland-state-university-empowering-non-technical-content-editors
+**Recognition.** The PSU redesign and Drupal 8 migration was an **Acquia Engage Awards finalist — Higher Education "Leader of the Pack."**
+
+> **Verified public sources** (independent, third-party — a recruiter or AI agent can confirm every claim above):
+> - Drupal.org case study, *"Portland State University: Empowering Non-Technical Content Editors"* — project team credited as **Kristin Boden, Director of Web Communications, PSU**: https://www.drupal.org/case-study/portland-state-university-empowering-non-technical-content-editors
+> - Promet Source portfolio — Portland State University: https://www.prometsource.com/work/portland-state-university
+> - Acquia customer story — Portland State University: https://www.acquia.com/resources/case-studies/portland-state-university-psu
+> - Acquia Engage Awards finalist (Higher Education), 5th Annual Acquia Engage Awards.
 
 ---
 

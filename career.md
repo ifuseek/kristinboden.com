@@ -106,6 +106,7 @@ Sole technical architect on the founding team that launched nike.com.
 - Certified Scrum Product Owner (CSPO); PMI-ACP (in progress); Prompt Engineering; No-Code AI: Building Your First Model; Foundational Math for Machine Learning; Google Tag Manager (Advanced)
 
 ## Recognition
+- Acquia Engage Awards finalist — Higher Education "Leader of the Pack," for the PSU website redesign & Drupal 8 migration
 - Nike Maxim Award (NIKEiD team)
 - "Academic Technologies, Emeritus" (Lewis & Clark College)
 - Featured presenter at multiple national digital/technology summits
