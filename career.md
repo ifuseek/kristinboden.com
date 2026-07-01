@@ -88,7 +88,7 @@ Sole technical architect on the founding team that launched nike.com.
 - Scaled a short-term rental to **Airbnb SuperHost every year since launch** and Guest Favorite status — 4.93/5 rating, 100% response rate, peak occupancy — with full P&L ownership, dynamic pricing, and multi-OTA channel management.
 - Earned **LGBTQ+-inclusive (Booking.com Travel Proud) and sustainability certifications** across Booking.com and VRBO — values-led hospitality backed by an extensive collection of glowing guest testimonials.
 - Demonstrates the operator's core skills that translate directly to digital leadership: relentless customer-experience focus, operational consistency, and measurable, repeatable quality.
-- Reviews / social proof: https://www.riverfront-cottage.com/reviews
+- Reviews / social proof: https://www.riverfront-cottage.com/reviews — 83 guest-book entries (2023–2026). Selected: *"Our 5th time at the cottage and it never disappoints. I consider it a second home." — Jen & Ed;* *"Kristin is fantastic — helpful, responsive and best of all patient." — Johnathon & Giselle;* *"The most comfortable bed on our road trip from Texas. So well stocked." — Micah & James (Austin, TX).*
 
 ---
 
