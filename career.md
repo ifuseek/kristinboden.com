@@ -77,7 +77,7 @@ Sole technical architect on the founding team that launched nike.com.
 
 ### Northwest Regional Educational Laboratory (NWREL) — Internet Applications Specialist / Research Consultant / DBA / Unix Sysadmin | Jun 1994 – Mar 1997 | Portland, OR
 - Built some of the first web and gopher sites in the non-profit/education space, before the public ".com" era.
-- **Pioneer / thought leadership:** wrote and presented some of the very first papers on the availability and application of the internet for educators — before the internet was opened to the public and before ".com" existed — introducing educators nationally to the emerging network.
+- **Pioneer / thought leadership:** wrote and presented early work on the availability and application of the internet for educators before the public internet and before ".com." **Moderated the "K-12 and the Internet" panel** (as *Kristin Boden-MacKay, NWREL*) at a **FARNET conference, fall 1994**, alongside internet pioneers including **Mark McCahill (creator of Gopher)** — documented in the official *Internet Monthly Report, November 1994*.
 - Led the creative/technical web team, budget, and vendors; installed networks across regional school districts; national presenter and writer.
 
 ### Lewis & Clark College — Academic Consultant, Research (Statistics & Statistical Analysis) | Mar 1991 – Jun 1994 | Portland, OR

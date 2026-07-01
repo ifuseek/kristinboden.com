@@ -8,9 +8,9 @@
 
 **Situation.** Before the internet was opened to the public and before ".com" existed, educators had no framework for whether — or how — the emerging network could serve teaching, research, and administration. The technology was unproven and almost entirely unknown to its potential users.
 
-**Action.** Built some of the first web and gopher sites in the education/non-profit space and installed networks across regional school districts. Crucially, **wrote and presented some of the very first papers on the availability and application of the internet for educators** — translating a brand-new, highly technical capability into terms a non-technical national audience could understand and act on. *(Paper title(s) / venue(s) / year(s): ______ — Kristin to confirm specifics for citation.)*
+**Action.** Built some of the first web and gopher sites in the education/non-profit space, installed networks across regional school districts, and wrote and presented early work on the internet's availability and application for educators — translating a brand-new, highly technical capability for a non-technical national audience. Notably, **moderated the "K-12 and the Internet" panel** (credited as *Kristin Boden-MacKay, Northwest Regional Educational Laboratory*) at a **FARNET conference in the fall of 1994**, on a program alongside internet pioneers including **Mark McCahill — creator of the Gopher protocol** — Clifford Neuman (USC/ISI), and Tom Longstaff (CERT / Carnegie Mellon).
 
-**Outcome.** Helped introduce educators nationally to the internet at its inception, and established the defining pattern of her career: **adopt and evangelize each new technology wave first, then lead others to it.** It is the same instinct — and the same train-the-trainer, translate-for-non-experts skill — now applied to AI.
+**Outcome.** Documented in the official **Internet Monthly Report, November 1994** — a verifiable primary-source record of her presence, at the internet's inception, among the people building and defining it. This established the pattern of her entire career: **adopt and evangelize each new technology wave first, then lead others to it** — the same train-the-trainer, translate-for-non-experts instinct now applied to AI.
 
 ---
 
