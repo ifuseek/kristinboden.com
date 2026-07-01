@@ -41,9 +41,9 @@
 
 **Situation.** PSU's web was 60 home-grown sites with 20+ second load times and escalating IT cost — unsustainable and damaging to recruitment and the student experience.
 
-**Action.** Rebuilt the entire ecosystem from the ground up into **380+ integrated, student-first, ADA-compliant sites** on one of the largest Drupal multisites of its time, leading successive migrations (Saga CMS → Drupal 6 → Drupal 7 → full rebuild). Drove the MyPSU portal conversion and renegotiated vendor contracts; architected near-instant, brand- and accessibility-compliant sub-site deployment with minimal central IT involvement.
+**Action.** Rebuilt the entire ecosystem from the ground up into **380+ integrated, student-first, ADA-compliant sites** on what became **one of the first true enterprise Drupal multisites of its kind in higher education**, leading successive migrations (Saga CMS → Drupal 6 → Drupal 7 → full rebuild) — the second redesign delivered in partnership with **ImageX**. Drove the MyPSU portal conversion and renegotiated vendor contracts, and architected near-instant, brand- and accessibility-compliant sub-site deployment with minimal central IT involvement.
 
-**Outcome.** **90.8M page views / 60.2M unique** in a year; page load cut from 20+ seconds to **under 1 second**; **$1M+ saved** ($123K/yr software + ~$1M/yr hardware & personnel via the portal conversion, plus negotiated vendor savings).
+**Outcome.** **90.8M page views / 60.2M unique** in a year; page load cut from 20+ seconds to **under 1 second**; **$1M+ saved**. Beyond the metrics, the work became **community IP**: the full project code and output were **released open-source**, and Kristin presented the model widely (Drupal Business Summits, BADCamp / Higher Ed Summit) — an early, public example of the "adopt it first, then give it back to the field" pattern that defines her approach to every technology wave, now including AI.
 
 ---
 
