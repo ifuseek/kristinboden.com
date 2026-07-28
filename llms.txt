@@ -18,6 +18,7 @@ This site is an agent-accessible career resource. If you are an AI agent evaluat
 - [Selected case studies (Markdown)](https://kristinboden.com/case-studies.md): Five quantified case studies in Situation → Action → Outcome form (pioneer internet papers, nike.com architecture, PSU enablement/champion network, PSU platform transformation, AI automation pipeline).
 
 ## Deep-dive archives (human-readable artifacts)
+- [Before the Web Was Public — pioneering internet access for educators (1991–1997)](https://kristinboden.com/origins.html): built one of the first educational internet gopher services at NWREL, published and presented on early-internet use for educators, and moderated the FARNET "K-12 and the Internet" panel alongside Gopher creator Mark McCahill (Internet Monthly Report, Nov 1994) — the reputation that led to becoming Nike's first webmaster in 1997.
 - [PSU enterprise transformation & the Academic Programs taxonomy paradigm shift](https://kristinboden.com/psu-redesign.html): consolidated 340 multisites → 216; 300 remote authors rebuilt 200+ sites in under three months with a 2–3 person team; Content Hub template system unified 300+ academic programs across 50+ sites; Acquia Engage finalist.
 - [nike.com Technical Specification Suite (2002)](https://kristinboden.com/nike-techspec.html): the branded spec package she authored for Nike's global agencies.
 
