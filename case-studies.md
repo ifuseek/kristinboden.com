@@ -21,7 +21,7 @@
 
 **Action.** As the sole technical resource on the founding team, built nike.com from the ground up and stood up Nike's **first complete e-commerce infrastructure** — logistics and fulfillment (via a UPS partnership), call center, CRM, payments, and returns — in **under eight weeks**. Negotiated pricing with a then-pre-IPO Akamai for the content-delivery network, and authored the nike.com technical-specification package used by global brand agencies.
 
-**Outcome.** Launched on schedule and architected for **99.9%+ uptime** through massive traffic spikes (World Cup, Olympics, Final Four). The CDN selection remains in use across the nike.com ecosystem decades later, and the platform became the foundation for NIKEiD.
+**Outcome.** Launched on schedule and architected for **99.9%+ uptime** through massive traffic spikes (World Cup, Olympics, Final Four). The CDN selection remains in use across the nike.com ecosystem decades later, and the platform became the foundation for NIKEiD. **Artifact:** the branded nike.com Technical Specification Suite (v1.0, 2002) she authored for Nike's global agencies — archived at https://kristinboden.com/nike-techspec.html
 
 ---
 

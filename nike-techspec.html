@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>nike.com Technical Specification Suite (2002) — archive | Kristin Boden</title>
+<meta name="description" content="Archive of the nike.com Technical Specification Suite v1.0 (2002), authored and maintained by Kristin Boden and distributed to Nike's global brand vendors and agencies.">
+<link rel="canonical" href="https://kristinboden.com/nike-techspec.html">
+<style>
+  :root{ --ink:#111; --paper:#f6f5f2; --red:#c8102e; --navy:#1F3864; --grey:#5b6472; --line:#dcd8d0; }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;color:var(--ink);background:var(--paper);line-height:1.55;}
+  a{color:var(--navy);} a:hover{color:var(--red);}
+  .wrap{max-width:900px;margin:0 auto;padding:0 22px;}
+  header.hero{background:#0d0d0f;color:#fff;padding:30px 0 34px;}
+  header .kicker{letter-spacing:3px;text-transform:uppercase;font-size:11px;color:#c8102e;font-weight:700;}
+  header h1{font-size:30px;margin:8px 0 4px;font-weight:800;line-height:1.1;}
+  header .meta{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;color:#9aa3b2;margin-top:10px;line-height:1.7;}
+  header .back{display:inline-block;margin-top:14px;font-size:13px;color:#9fc3ef;text-decoration:none;}
+  .lead{font-size:16.5px;color:#333;margin:22px 0;}
+  .photos{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:18px 0 8px;}
+  .photos figure{margin:0;}
+  .photos img{width:100%;border-radius:8px;border:1px solid var(--line);display:block;background:#000;}
+  .photos figcaption{font-size:12px;color:var(--grey);margin-top:6px;}
+  @media(max-width:640px){.photos{grid-template-columns:1fr;}}
+  h2{color:var(--navy);font-size:18px;margin:30px 0 6px;border-bottom:2px solid var(--red);padding-bottom:6px;display:inline-block;}
+  .index{border:1px solid var(--line);border-radius:8px;background:#fff;padding:6px 0;margin:10px 0;}
+  .idx-group{padding:10px 18px;}
+  .idx-group h3{margin:0 0 6px;font-size:12px;letter-spacing:1px;text-transform:uppercase;color:var(--red);}
+  .idx-group ul{margin:0;padding-left:18px;} .idx-group li{margin:3px 0;font-size:14.5px;}
+  .idx-group li span{color:var(--grey);font-size:12.5px;}
+  .note{background:#fff;border-left:4px solid var(--navy);border:1px solid var(--line);border-radius:8px;padding:14px 16px;font-size:14px;color:#333;margin:20px 0;}
+  footer{color:var(--grey);font-size:12.5px;text-align:center;padding:26px 0;border-top:1px solid var(--line);margin-top:26px;}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+  <div class="kicker">Historical Artifact · Career Archive</div>
+  <h1>nike.com Technical Specification Suite</h1>
+  <div class="meta">
+    Tech Spec Suite v1.0 · production.nike.com@nike.com · May 10, 2002<br>
+    Authored &amp; maintained by Kristin Boden · distributed to Nike's global brand vendors &amp; agencies on CD
+  </div>
+  <a class="back" href="https://kristinboden.com/">← back to kristinboden.com</a>
+</div></header>
+
+<div class="wrap">
+  <p class="lead">This is the technical-specification package I authored and maintained for <strong>nike.com</strong> — the single source of truth that let Nike's global network of creative agencies and development vendors build brand sites on a consistent, stable, secure foundation. It shipped as a branded CD-ROM (pictured), and — as with everything at Nike — the craft went right down to the disc art.</p>
+
+  <div class="photos">
+    <figure>
+      <img src="nike-cd-label.jpg" alt="nike.com Tech Specs CD, labeled Tech Spec Suite v1.0, May 10 2002, with the red Nike swoosh and binary-code artwork">
+      <figcaption>The disc: "TECH SPECS," nike.com swoosh, Tech Spec Suite v1.0 (May 10, 2002).</figcaption>
+    </figure>
+    <figure>
+      <img src="nike-cd-art.jpg" alt="Close-up of the nike.com Tech Specs CD showing the binary-code artwork and a small robot face printed on the hub">
+      <figcaption>The craft in the details — binary-code art and a little robot on the hub.</figcaption>
+    </figure>
+  </div>
+
+  <h2>What was in the suite</h2>
+  <div class="index">
+    <div class="idx-group">
+      <h3>Overview</h3>
+      <ul><li>Tech Specs :: Overview <span>— the entry point and guidelines for building on nike.com</span></li></ul>
+    </div>
+    <div class="idx-group" style="border-top:1px solid var(--line);">
+      <h3>Creative standards</h3>
+      <ul>
+        <li>Regional Style Guide</li>
+        <li>Locator Bar</li>
+        <li>Pop-up Windows</li>
+      </ul>
+    </div>
+    <div class="idx-group" style="border-top:1px solid var(--line);">
+      <h3>Technical standards</h3>
+      <ul>
+        <li>Brand API</li>
+        <li>Database Code Specs</li>
+        <li>Programming Standards</li>
+        <li>Documentation Index</li>
+        <li>Browser Detection</li>
+        <li>QA Specs</li>
+        <li>rsync (deployment) User Guide</li>
+        <li>Bastion Host <span>— secure deployment access</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="note">
+    <strong>Why it mattered.</strong> Dozens of external agencies and internal teams built on nike.com. This suite is how one person kept that ecosystem consistent, on-brand, performant, and secure — the same governance-and-enablement instinct that later scaled to a 375-property university platform and, today, to AI adoption. <em>(A working example of "translate the complex into something everyone can build on.")</em>
+  </div>
+
+  <p style="font-size:13.5px;color:var(--grey);">Archive page. The original suite was an image-mapped HTML index linking to detailed PDF specifications (overview, style guide, brand API, programming standards, QA, deployment, and more). Full PDFs available on request.</p>
+</div>
+
+<footer><div class="wrap">
+  Historical artifact from the career of <a href="https://kristinboden.com/">Kristin Boden</a> · nike.com Technical Architect, 1997–2004
+</div></footer>
+</body>
+</html>
