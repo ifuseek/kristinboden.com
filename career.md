@@ -59,11 +59,12 @@ Led enterprise digital strategy, standards, governance, accessibility, budget, a
 - **Adoption / enablement at scale (led a training organization):** built and **directed a team of trainers** running a train-the-trainer program that grew from 318 sessions in year one to 1,500+ users/year in mandated accessibility training (an 850% increase in offerings); recruited and coached a network of 500+ embedded content-owner champions who drove responsible tool use across teams she did not directly manage. *(She directed the trainers and designed the program, in addition to an extensive hands-on training background of her own.)*
 - **Change management:** led successive platform migrations (Saga CMS → Drupal 6 → Drupal 7 → full rebuild) and sustained adoption across a famously decentralized, change-resistant institution.
 - Owned the digital operations budget and vendor strategy; saved $1M+ via platform consolidation ($123K/yr software + ~$1M/yr hardware & personnel) and negotiation.
+- Held vendors and delivery partners firmly to their contracts, timelines, and budgets — tough when it was required, always fair — the discipline behind the savings and the foundation of trust-based relationships she has maintained with vendors across her career (reflected in her LinkedIn recommendations).
 - Owned web accessibility strategy (WCAG / Section 508) for all centrally hosted sites; led inclusive-design research with blind and alternate-abled students.
 - Led cross-functional governance with deans, faculty, and administrative executives; translated complex technical change into decisions non-technical leaders could champion. Ran fully remote training and operations in 2020.
 
 ### k+c digital — Principal, Program Management / QA / Agile Coaching | Nov 2002 – Dec 2013 | Portland, OR
-Independent digital consultancy. Clients including Benefit Cosmetics, Method, PopArt, Volantis.
+Independent digital consultancy. Clients including Benefit Cosmetics, Method, PopArt, Volantis. Several engagements originated from vendor and agency partners Kristin had worked with at Nike, who later brought her in for contract work — a recurring pattern of being re-hired by the people who had seen her deliver.
 - Delivered web/mobile application development and large-scale brand-interactive test strategy.
 - Introduced QA teams, test planning, and agile coaching into client organizations.
 
